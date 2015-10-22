@@ -1,0 +1,23 @@
+name: Minecraft
+favicon: null
+layout_spectrum: 0.8921035057865083
+typography_spectrum: 0.5425794343464077
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4005241245031357
+  lightness: 0.46979021467268467
+  saturation: 0.5934280226938426
+  rhythmicContrast: 0.46330256294459105
+purpose: []
